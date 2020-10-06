@@ -1,0 +1,4 @@
+Limit the commit message subject line to 50 characters.
+Separate the subject line from the body with a blank line.
+capitalize the subject line and do not end the subject line with period
+In commit messages explain what and why ,dont worry about How
