@@ -1,0 +1,5 @@
+Add good practices and movie scene 1
+
+started writing the scene but blocked because i haven't had enough coffee
+
+Added good practices for git so that student can review then.
